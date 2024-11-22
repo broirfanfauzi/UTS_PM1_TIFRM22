@@ -1,16 +1,19 @@
-# flutter_application_1
+ANGGOTA KELOMPOK : 
+1. IRFAN FAUZI (22552011107)
+2. IFAN EFENDI (22552011238)
+3. FAUZI DARMAWAN (22552011094)
 
-A new Flutter project.
+JOB DESCRIPTION :
+1. Irfan Fauzi
+Membuat struktur aplikasi Flutter (halaman dan navigasi).
+Menyusun kerangka halaman utama seperti Landing Page dan Home Page.
 
-## Getting Started
+2. Ifan Efendi
+Mendesain tampilan halaman seperti Service Detail Page dan Booking Page.
+Menambahkan elemen interaktif dan memperbaiki tata letak agar lebih rapi.
 
-This project is a starting point for a Flutter application.
+3. Fauzi Darmawan
+Memastikan seluruh halaman aplikasi saling terhubung dengan baik.
+Menguji fitur dasar seperti tombol navigasi dan input form.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+SCREENSHOT APLIKASI :
