@@ -17,3 +17,5 @@ Memastikan seluruh halaman aplikasi saling terhubung dengan baik.
 Menguji fitur dasar seperti tombol navigasi dan input form.
 
 SCREENSHOT APLIKASI :
+![image](https://github.com/user-attachments/assets/93b8e509-f5f8-4cfb-910e-68e51d8dacf1)
+
